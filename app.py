@@ -36,8 +36,8 @@ class DatabaseManager:
             (1, 'Alice', 'Sales', 50000, '2021-01-15'),
             (2, 'Bob', 'Engineering', 70000, '2020-06-10'),
             (3, 'Charlie', 'Marketing', 60000, '2022-03-20'),
-            (4, 'David', 'Engineering', 75000, '2021-08-15'),
-            (5, 'Eva', 'Sales', 55000, '2022-01-10')
+            (4, 'Sharma', 'Engineering', 75000, '2021-08-15'),
+            (5, 'Deepak', 'Sales', 55000, '2022-01-10')
         ]
         
         sample_departments = [
